@@ -36,3 +36,6 @@ Whether you're a seasoned systems programmer or just diving into low-level devel
 - **Programming Languages:** Knowledge of C, C++, and/or Assembly.
 - **Concepts:** A basic understanding of computer architecture and operating system design.
 - **Tools:** Familiarity with tools like GCC/Clang, Make, and debugging utilities.
+
+## Contributors ✒
+- **The-Jat** - _Initial work_ - [@The-Jat](https://github.com/The-Jat)
