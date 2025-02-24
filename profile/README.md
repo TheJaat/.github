@@ -23,13 +23,9 @@ At The Jaat, our mission is to push the boundaries of low-level system developme
 
 Our work is open-source, and we welcome contributions from developers and enthusiasts who share our vision for creating better, more transparent systems software.
 
----
-
 ## Getting Started
 
 Whether you're a seasoned systems programmer or just diving into low-level development, The Jaat offers an environment where you can learn, contribute, and innovate.
-
----
 
 ### Prerequisites
 
