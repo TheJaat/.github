@@ -1,6 +1,7 @@
 ## Hi there 👋
 ![Organization Banner](./assets/Banner.png)
 
+## The Jaat
 **The Jaat** is an innovative organization focused on building the core of modern computing. We specialize in low-level system software including bootloaders, kernels, and operating systems to provide robust, efficient, and secure foundations for a wide range of computing platforms.
 
 ## About Us
