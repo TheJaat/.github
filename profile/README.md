@@ -28,4 +28,4 @@ Whether you're a seasoned systems programmer or just diving into low-level devel
 ## Contributors ✒
 - **The-Jat** - _Initial work_ - [@The-Jat](https://github.com/The-Jat)
 
-Feel free to explore our projects, contribute to our repositories, and join us as we build the future of low-level computing. 🌐
+Feel free to explore our projects, contribute to our repositories, and join us as we build the future of low-level computing 🌐.
